@@ -1,4 +1,4 @@
-#Sat Feb 08 14:51:49 JST 2020
+#Tue Feb 11 21:03:37 JST 2020
 base.0=/Users/sotasugimura/AndroidStudioProjects/JumpActionGame/android/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
